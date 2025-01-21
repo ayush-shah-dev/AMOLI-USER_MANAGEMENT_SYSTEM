@@ -1,6 +1,6 @@
 # AYUSH SHAH #
 
-# User Management System
+# USER MANAGEMENT SYSTEM AMOLI
 
 Roles: 
 1. Admin
