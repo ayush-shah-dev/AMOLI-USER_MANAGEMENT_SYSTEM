@@ -3,15 +3,15 @@
 # USER MANAGEMENT SYSTEM AMOLI
 
 Roles: 
-1. Admin
-2. Customer
+1. ADMIN
+2. USER
 
-Admin:
+ADMIN :
 1. Admin can Create, Update, Read and Delete User.
 2. Only Admin can access Create, Update, List and DeleteView.
 
-Customer:
-1. Customer can Register himself.
+USER :
+1. User can Register himself.
 2. He can Watch and Update his profile with profile photo(using signals).
 3. He can't access User's Create, Update, List, Delete Page(using custom Mixins).
 
